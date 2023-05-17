@@ -1,2 +1,2 @@
 # Solution_of_Codeforces
-CF题解
+一些补题记录
