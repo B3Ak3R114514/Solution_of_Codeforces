@@ -1,24 +1,5 @@
-#include <algorithm>
-#include <array>
-#include <bitset>
-#include <cmath>
-#include <cstring>
-#include <fstream>
-#include <functional>
-#include <iomanip>
-#include <iostream>
-#include <map>
-#include <numeric>
-#include <queue>
-#include <set>
-#include <stack>
-#include <string>
-#include <unordered_map>
-#include <vector>
-//#define LOCAL
-#ifdef LOCAL
-#include "LocalDebug.h"
-#endif
+#include <bits/stdc++.h>
+//#include "LocalDebug.h"
 
 using namespace std;
 
